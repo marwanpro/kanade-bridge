@@ -1,0 +1,10 @@
+{
+    "rocketchat": {
+        "url": "",
+        "userid": "",
+        "token": ""
+    },
+    "discord": {
+        "token": ""   
+    }
+}
