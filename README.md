@@ -1,3 +1,5 @@
-# kanade-bridge
+# Kanade Bridge
 
-Bridge message between RocketChat ⇋ Discord 
+#### Bridge message between RocketChat ⇋ Discord 
+
+![](https://i.imgur.com/LhrAVXU.png)
