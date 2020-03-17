@@ -1,3 +1,5 @@
 node_modules
 package-lock.json
 credentials.txt
+config.json
+src/mongodb.js
