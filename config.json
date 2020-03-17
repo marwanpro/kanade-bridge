@@ -1,10 +1,15 @@
 {
     "rocketchat": {
-        "url": "",
+        "url": "https://chat.rocket.com/api/v1/",
         "userid": "",
-        "token": ""
+        "token": "",
+        "listencommand": "kanade_bridgethis",
+        "pathpicture": "/var/www/.rocketchatbridge/"
     },
     "discord": {
-        "token": ""   
+        "token": "",
+        "prefix": "§",
+        "category": "RocketChat (Kanade Bridge)",
+        "avatarurl": "https://yourwebsite.com/.rocketchatbridge/"
     }
 }
